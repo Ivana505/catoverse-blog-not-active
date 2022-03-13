@@ -72,7 +72,7 @@ import random
 import sys
    
 
-The live site can be previewed [here](https://.herokuapp.com/).
+The live site can be previewed [here](https://catoverse-blog.herokuapp.com/).
 
 ![deployment1](.png)
 
